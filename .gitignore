@@ -1,0 +1,4 @@
+business.db
+business_backup.db
+__pycache__/
+*.pyc
