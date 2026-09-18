@@ -3,6 +3,7 @@
 title = Business Assistant
 package.name = businessassistant
 package.domain = org.gavendra
+version = 1.0.0
 
 source.dir = .
 source.include_exts = py,txt,db
