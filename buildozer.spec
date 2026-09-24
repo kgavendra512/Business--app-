@@ -4,6 +4,7 @@ title = Business Assistant
 package.name = businessassistant
 package.domain = org.gavendra
 version = 1.0.0
+android.accept_sdk_license = True
 
 source.dir = .
 source.include_exts = py,txt,db
