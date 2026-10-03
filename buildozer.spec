@@ -9,7 +9,7 @@ android.accept_sdk_license = True
 source.dir = .
 source.include_exts = py,txt,db
 
-requirements = python3,kivy
+requirements = python3==3.11.9,hostpython3==3.11.9,kivy==2.3.1
 
 orientation = portrait
 fullscreen = 0
